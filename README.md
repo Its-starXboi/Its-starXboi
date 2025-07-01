@@ -7,7 +7,7 @@
   <b>👀 𝙑𝙞𝙨𝙞𝙩𝙤𝙧𝙨</b><br>
   <img src="https://profile-counter.glitch.me/Its-starXboi/count.svg" />
 </p>
-
+## stats
 <p align="center">
   <img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/hr.gif" width="100%">
 </p>
