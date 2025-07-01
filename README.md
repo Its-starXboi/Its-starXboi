@@ -46,6 +46,6 @@ class Starboi():
 
 <h1> <img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
- [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/telegram_icon.png" width="50px">](https://t.me/its_star_boi) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/github_icon.png" width="50px">](https://github.com/Its-starXboi) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/Instagram_icon.png" width="50px">](https://www.instagram.com/starxnetwork_?igsh=c25kYXFuZ2EzazVr) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/youtube_icon.png" width="50px">](https://youtube.com/channel/UC9TE-DNciMpi5BZliUyxTwQ)
+ [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/telegram_icon.png" width="60px">](https://t.me/its_star_boi) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/github_icon.png" width="60px">](https://github.com/Its-starXboi) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/Instagram_icon.png" width="60px">](https://www.instagram.com/starxnetwork_?igsh=c25kYXFuZ2EzazVr) [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/youtube_icon.png" width="60px">](https://youtube.com/channel/UC9TE-DNciMpi5BZliUyxTwQ)
 
 [<img src="https://github.com/Its-starXboi/Its-starXboi/blob/main/resources/hr.gif"/>](https://github.com/Its-starXboi)
